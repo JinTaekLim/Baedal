@@ -18,4 +18,5 @@
 ## 주문 요청 플로우
 ![Image](https://github.com/user-attachments/assets/a3e570c8-acdc-44fd-8c3c-a2cf22c44fb9)
 
-
+## 결제 승인 플로우
+![Image](https://github.com/user-attachments/assets/b8956fe7-78c2-4843-a223-d1513a9bc5af)
