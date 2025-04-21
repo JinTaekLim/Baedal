@@ -12,7 +12,8 @@
 [Cart](https://github.com/Project-Baedal/cart)
 
 
-
+## 아키텍처
+![Image](https://github.com/user-attachments/assets/52f1753f-13fd-4fee-9cf8-6710f6d675be)
 
 
 
