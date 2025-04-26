@@ -13,10 +13,9 @@
 
 
 ## 아키텍처
-![Image](https://github.com/user-attachments/assets/52f1753f-13fd-4fee-9cf8-6710f6d675be)
+![Image](https://github.com/user-attachments/assets/6562a8ae-008b-42e4-8dfa-a8c066382320)
 
 ## 주문 요청 플로우
-![Image](https://github.com/user-attachments/assets/a3e570c8-acdc-44fd-8c3c-a2cf22c44fb9)
-
-## 결제 승인 플로우
-![Image](https://github.com/user-attachments/assets/b8956fe7-78c2-4843-a223-d1513a9bc5af)
+![Image](https://github.com/user-attachments/assets/52250766-3d14-483f-b5c8-0a103c84de8c)
+## 결제 성공 플로우
+![Image](https://github.com/user-attachments/assets/9e39dd7b-0f21-48fe-ba92-2ef7b5ad559e)
